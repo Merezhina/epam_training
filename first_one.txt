@@ -4,5 +4,3 @@ study hard
 made remotely
 
 3. fird time I'm changing this file to check GUI 
-
-4. test revert
